@@ -20,11 +20,7 @@ Instead of manually positioning cameras and taking screenshots of individual obj
 - Lightweight developer-focused resource
 - Integration with `screenshot-basic`
 - Suitable for creating furniture inventory and catalog images
-
-## Preview
-
-*Add a screenshot or demonstration GIF of the tool here.*
-
+  
 ## Requirements
 
 - FiveM Server
